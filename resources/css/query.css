@@ -165,6 +165,21 @@
   .works-step:last-of-type {
     margin-bottom: 20px;
   }
+
+  .map-box {
+    height: auto;
+  }
+
+  .map {
+    height: 300px;
+  }
+
+  .form-box {
+    width: 90%;
+    position: relative;
+    height: auto;
+    padding: 30px 0;
+  }
 }
 
 
